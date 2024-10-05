@@ -1,6 +1,5 @@
 # YOLOv8 Webcam Object Detection
 
-## Repository Name: yolov8-webcam-object-detection
 
 ## Description
 
